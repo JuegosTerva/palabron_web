@@ -1,0 +1,41 @@
+{
+	"name": "Palabrón",
+	"short_name": "Palabrón",
+	"description": "Encuentra la palabra escondida.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#7765a1",
+	"icons": [
+		{
+			"src": "icons/icono-16.png",
+			"sizes": "33x33",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icono-32.png",
+			"sizes": "67x67",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icono-64.png",
+			"sizes": "133x133",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icono-128.png",
+			"sizes": "267x267",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icono-256.png",
+			"sizes": "533x533",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icono-512.png",
+			"sizes": "1067x1067",
+			"type": "image/png"
+		}
+	]
+}
